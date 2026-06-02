@@ -1,0 +1,13 @@
+C:\Users\genom\source\repos\LABA 8-2 OOP\bin\Debug\LABA 8-2 OOP.exe.config
+C:\Users\genom\source\repos\LABA 8-2 OOP\bin\Debug\LABA 8-2 OOP.exe
+C:\Users\genom\source\repos\LABA 8-2 OOP\bin\Debug\LABA 8-2 OOP.pdb
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA 8-2 OOP.csproj.AssemblyReference.cache
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA_8_2_OOP.Form1.resources
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA_8_2_OOP.Properties.Resources.resources
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA 8-2 OOP.csproj.GenerateResource.cache
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA 8-2 OOP.csproj.CoreCompileInputs.cache
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA 8-2 OOP.exe
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA 8-2 OOP.pdb
+C:\Users\genom\source\repos\LABA 8-2 OOP\bin\Debug\MySql.Data.dll
+C:\Users\genom\source\repos\LABA 8-2 OOP\bin\Debug\MySql.Data.xml
+C:\Users\genom\source\repos\LABA 8-2 OOP\obj\Debug\LABA 8-2.D72A2EFC.Up2Date

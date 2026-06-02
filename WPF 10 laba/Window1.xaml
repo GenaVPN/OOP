@@ -1,0 +1,64 @@
+﻿<Window x:Class="WPF_10_laba.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_10_laba"
+        mc:Ignorable="d"
+        Background="#FF2C3E50"
+        Title="Window1" Height="450" Width="450">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Dictionary1.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <Style x:Key="TextStyle2" TargetType="TextBlock">
+
+                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="FontWeight" Value="Bold"/>
+                <Setter Property="Foreground" Value="{StaticResource ColorText}"/>
+
+
+            </Style>
+        </ResourceDictionary>
+        
+        
+
+        
+    </Window.Resources>
+    <Grid Margin="15" >
+        <StackPanel>
+
+            <TextBlock Text="Пациент" Style="{StaticResource TextStyle2}" />
+            <TextBox x:Name="PatientBox" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Назначение" Style="{StaticResource TextStyle2}" />
+            <TextBox x:Name="IndicationBox" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Лекарство" Style="{StaticResource TextStyle2}" />
+            <TextBox x:Name="MedicineBox" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Поставщик" Style="{StaticResource TextStyle2}" />
+            <TextBox x:Name="ProviderBox" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Количество" Style="{StaticResource TextStyle2}" />
+            <TextBox x:Name="CountBox" Margin="0,5,0,10"/>
+
+            <TextBlock Text="Сумма" Style="{StaticResource TextStyle2}" />
+            <TextBox x:Name="PriceBox" Margin="0,5,0,20"/>
+
+            
+            <Button Content="Сохранить"
+                    Height="35"
+                    Click="SaveButton_Click"
+                    Style="{StaticResource ResourceKey=TextBox}" Background="#FF1F585B"
+                    HorizontalContentAlignment="Center"
+                    />
+
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>
