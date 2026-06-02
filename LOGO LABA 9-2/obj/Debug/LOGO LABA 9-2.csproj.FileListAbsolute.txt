@@ -1,0 +1,14 @@
+C:\Users\genom\source\repos\LOGO LABA 9-2\bin\Debug\LOGO LABA 9-2.exe.config
+C:\Users\genom\source\repos\LOGO LABA 9-2\bin\Debug\LOGO LABA 9-2.exe
+C:\Users\genom\source\repos\LOGO LABA 9-2\bin\Debug\LOGO LABA 9-2.pdb
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO LABA 9-2.csproj.AssemblyReference.cache
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\MainWindow.baml
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\MainWindow.g.cs
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\App.g.cs
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO LABA 9-2_MarkupCompile.cache
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO LABA 9-2.g.resources
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO_LABA_9_2.Properties.Resources.resources
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO LABA 9-2.csproj.GenerateResource.cache
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO LABA 9-2.csproj.CoreCompileInputs.cache
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO LABA 9-2.exe
+C:\Users\genom\source\repos\LOGO LABA 9-2\obj\Debug\LOGO LABA 9-2.pdb
