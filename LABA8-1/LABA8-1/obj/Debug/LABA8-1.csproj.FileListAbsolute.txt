@@ -1,0 +1,7 @@
+C:\Users\genom\source\repos\LABA8-1\LABA8-1\bin\Debug\LABA8-1.exe.config
+C:\Users\genom\source\repos\LABA8-1\LABA8-1\bin\Debug\LABA8-1.exe
+C:\Users\genom\source\repos\LABA8-1\LABA8-1\bin\Debug\LABA8-1.pdb
+C:\Users\genom\source\repos\LABA8-1\LABA8-1\obj\Debug\LABA8-1.csproj.AssemblyReference.cache
+C:\Users\genom\source\repos\LABA8-1\LABA8-1\obj\Debug\LABA8-1.csproj.CoreCompileInputs.cache
+C:\Users\genom\source\repos\LABA8-1\LABA8-1\obj\Debug\LABA8-1.exe
+C:\Users\genom\source\repos\LABA8-1\LABA8-1\obj\Debug\LABA8-1.pdb

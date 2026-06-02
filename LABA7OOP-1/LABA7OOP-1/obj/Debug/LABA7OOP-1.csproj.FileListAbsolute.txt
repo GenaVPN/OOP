@@ -1,0 +1,10 @@
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\bin\Debug\LABA7OOP-1.exe.config
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\bin\Debug\LABA7OOP-1.exe
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\bin\Debug\LABA7OOP-1.pdb
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\obj\Debug\LABA7OOP-1.csproj.AssemblyReference.cache
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\obj\Debug\LABA7OOP_1.Properties.Resources.resources
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\obj\Debug\LABA7OOP-1.csproj.GenerateResource.cache
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\obj\Debug\LABA7OOP-1.csproj.CoreCompileInputs.cache
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\obj\Debug\LABA7OOP-1.exe
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\obj\Debug\LABA7OOP-1.pdb
+C:\Users\genom\source\repos\LABA7OOP-1\LABA7OOP-1\obj\Debug\LABA7OOP_1.Form1.resources
